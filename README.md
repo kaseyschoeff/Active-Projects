@@ -7,6 +7,20 @@ Full-stack engineer building data-intensive systems and AI-powered applications.
 ## Active Projects
 
 ### Job Market Intelligence Platform
+
+### Pet Projects
+
+**Startup (Cofounder)** | AI-Powered Career Readiness Platform
+
+Student-company marketplace where university students solve real business challenges, earn verified credentials, and build a portfolio of proven skills. Features a multi-stage AI evaluation pipeline for platform-issued credentials with citation-grounded scoring and adversarial review.
+
+* **Platform:** Full end-to-end workflow — company posts problem, student applies/submits, company reviews, credential issued with cryptographic verification (HMAC-SHA256)
+* **AI Engine:** 4-stage evaluation pipeline (Haiku quality gate → Sonnet primary evaluation → adversarial review → final determination) with programmatic citation verification against submission text
+* **White-Label:** University-first branding system — each partner university sees their own colors, logo, and name throughout. Platform engine runs underneath
+* **Stack:** Next.js 14, React, TypeScript, Supabase (PostgreSQL + Auth + RLS), Tailwind CSS, Resend, Anthropic Claude API, Vercel
+
+---
+
 **Contract Project** | Full-Stack + AI Pipeline
 
 Full-stack pipeline that continuously scrapes job listings from multiple APIs, deduplicates across platforms using SHA-256 hashing, and enriches records via LLM with structured JSON output.
