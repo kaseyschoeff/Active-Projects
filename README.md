@@ -44,6 +44,19 @@ Professional networking platform that matches users using a 6-factor scoring alg
 
 ---
 
+### Autonomous AI Development Pipeline
+
+**Internal Tooling** | Multi-Agent Orchestration
+
+22-agent autonomous development pipeline organized across 7 operational tiers, managing parallel workstreams across multiple active projects with minimal human intervention.
+
+* **Architecture:** 7-tier agent hierarchy (Command & Control, Development, Infrastructure, Productivity, Quality, Intelligence, Financial) orchestrated via Discord, Redis, and BullMQ on Railway
+* **Optimization:** Dynamic context loading and prompt caching reducing steady-state operating cost to ~$140–170/month across all agents and workstreams
+* **Capabilities:** Autonomous task decomposition, cross-project coordination, code generation and review, infrastructure management, and financial tracking across 4 concurrent projects
+* **Stack:** TypeScript, Node.js, Redis, BullMQ, Discord.js, Anthropic Claude API, Railway, Stripe
+
+---
+
 ### SE Job Market Research
 **Contract Project** | Data Science + NLP
 
