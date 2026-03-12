@@ -1,6 +1,6 @@
 # Active-Projects
 
-## Kasey Schoeff - Sales Engineer
+## Kasey Schoeff - Software Engineer
 
 Full-stack engineer building data-intensive systems and AI-powered applications. Most of my active work lives in private repositories due to client contracts and startup IP. This repo serves as a portfolio overview.
 
